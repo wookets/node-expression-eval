@@ -1,0 +1,25 @@
+{
+  "name": "node-expression-eval", 
+  "description": "A node package for Silent Matt's js-expression-eval",
+  "main": "./lib/index",
+  "author": "wookets",
+  "version": "0.1.0", 
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/wookets/node-expression-parser.git"
+  },
+  "bugs": {
+    "url": "http://github.com/wookets/node-expression-parser/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/wookets/node-expression-parser/raw/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "1.6.0"
+  }
+}
