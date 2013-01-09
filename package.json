@@ -1,7 +1,7 @@
 {
   "name": "node-expression-eval", 
   "description": "A node package for Silent Matt's js-expression-eval",
-  "main": "./lib/index",
+  "main": "./lib/parser",
   "author": "wookets",
   "version": "0.1.0", 
   "repository": {
